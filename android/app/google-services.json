@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "962482712933",
+    "project_id": "dypnext",
+    "storage_bucket": "dypnext.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962482712933:android:91cf80d3ba3085618af18c",
+        "android_client_info": {
+          "package_name": "com.example.dypnext"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "962482712933-jub7v302f46g43dig1mmi17nudq1upd5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnuBIHikenS9AXKm7W5musht9eYaEgjaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "962482712933-jub7v302f46g43dig1mmi17nudq1upd5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

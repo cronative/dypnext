@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">962482712933-jub7v302f46g43dig1mmi17nudq1upd5.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">962482712933</string>
+    <string name="google_api_key" translatable="false">AIzaSyBnuBIHikenS9AXKm7W5musht9eYaEgjaQ</string>
+    <string name="google_app_id" translatable="false">1:962482712933:android:91cf80d3ba3085618af18c</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBnuBIHikenS9AXKm7W5musht9eYaEgjaQ</string>
+    <string name="google_storage_bucket" translatable="false">dypnext.appspot.com</string>
+    <string name="project_id" translatable="false">dypnext</string>
+</resources>
